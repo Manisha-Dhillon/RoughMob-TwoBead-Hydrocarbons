@@ -9,7 +9,7 @@ This repository contains the simulation data supporting the manuscript:
 
 ## Overview
 
-This dataset accompanies a study that extends the volume-based RoughMob framework to two-bead coarse-grained models of branched hydrocarbon liquids. The work develops a predictor for the mobility acceleration factor --- the ratio of the coarse-grained to the atomistic self-diffusion coefficient --- based on geometric descriptors of the molecular volume partitioned into active and passive regions. Thirteen branched hydrocarbons spanning six to twelve carbon atoms are studied at 298.15 K and 1 atm.
+This dataset accompanies a study that extends the volume-based RoughMob(Roughness-Mobilty) framework to two-bead coarse-grained models of branched hydrocarbon liquids. The work develops a predictor for the mobility acceleration factor --- the ratio of the coarse-grained to the atomistic self-diffusion coefficient --- based on geometric descriptors of the molecular volume partitioned into active and passive regions. Thirteen branched hydrocarbons spanning six to twelve carbon atoms are studied at 298.15 K and 1 atm.
 
 ---
 
