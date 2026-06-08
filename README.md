@@ -53,7 +53,7 @@ Each molecule has its own folder containing three subfolders:
 **distributions/**
 | File | Description |
 |------|-------------|
-| `nb.A-A.dist.tgt` | Non-bonded centre-of-mass RDF target (A--A pairs) |
+| `nb.A-A.dist.tgt` | Non-bonded RDF target (A--A pairs) |
 | `nb.A-A.dist.new` | Non-bonded RDF from the final IBI iteration (A--A pairs) |
 | `nb.A-B.dist.tgt` | Non-bonded RDF target (A--B pairs, asymmetric molecules only) |
 | `nb.B-B.dist.tgt` | Non-bonded RDF target (B--B pairs, asymmetric molecules only) |
